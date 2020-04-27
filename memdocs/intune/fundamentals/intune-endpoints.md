@@ -50,7 +50,7 @@ You can modify proxy server settings on individual client computers. You can als
 <!--
 > [!NOTE] If Windows 8.1 devices haven't cached proxy server credentials, enrollment might fail because the request doesn't prompt for credentials. Enrollment fails without warning as the request wait for a connection. If users might experience this issue, instruct them to open their browser settings and save proxy server settings to enable a connection.   -->
 
-Managed devices require configurations that let **All Users** access services through firewalls.
+Managed devices require configurations that let the device and **All Users** access services through firewalls.
 
 
 The following tables list the ports and services that the Intune client accesses:
